@@ -6,5 +6,5 @@
   "build": {
     "command": "npm run build"
   },
-  "main": "dist/tanstack_start_app/index.js"
+  "main": "dist/server/index.js"
 }
