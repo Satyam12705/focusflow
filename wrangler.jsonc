@@ -6,5 +6,9 @@
   "build": {
     "command": "npm run build"
   },
-  "main": "dist/server/index.js"
+  "main": "dist/server/index.js",
+  "assets": {
+    "directory": "dist/client",
+    "binding": "ASSETS"
+  }
 }
